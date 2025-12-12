@@ -1,4 +1,3 @@
-import React from "react";
 import { Cherkmark } from "../components/Icons";
 import { Calendar } from "lucide-react";
 
